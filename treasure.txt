@@ -2,3 +2,5 @@ Rubies
 Diamonds
 Crown Jewels
 Parrot
+
+Gold
