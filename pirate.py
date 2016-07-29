@@ -1,3 +1,1 @@
-import random
-
-print "arr, matey"
+print "Aar, matey"
